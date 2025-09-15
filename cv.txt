@@ -1,0 +1,59 @@
+SARAH JOHNSON
+Senior Software Engineer
+Email: sarah.johnson@email.com | Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/sarahjohnson | GitHub: github.com/sarahjohnson
+
+PROFESSIONAL SUMMARY
+Experienced Senior Software Engineer with 6+ years of expertise in backend development, specializing in Python, Django, and scalable web applications. Proven track record of optimizing database performance, implementing RESTful APIs, and leading cross-functional teams. Strong background in machine learning and natural language processing with hands-on experience in fine-tuning transformer models and embedding systems.
+
+TECHNICAL SKILLS
+• Programming Languages: Python, JavaScript, SQL, Java
+• Frameworks & Libraries: Django, Flask, FastAPI, TensorFlow, PyTorch, Sentence Transformers
+• Databases: PostgreSQL, MySQL, MongoDB, ChromaDB, Weaviate
+• Cloud & DevOps: AWS (EC2, S3, RDS), Docker, Kubernetes, CI/CD pipelines
+• Machine Learning: BERT, GPT, embedding models, vector databases, semantic search
+• Tools: Git, Jenkins, Redis, Elasticsearch, Apache Kafka
+
+PROFESSIONAL EXPERIENCE
+
+Senior Backend Engineer | TechFlow Solutions | 2020 - Present
+• Developed and maintained core backend services using Python and Django for a SaaS platform serving 100K+ users
+• Implemented RESTful APIs for data retrieval and manipulation, improving system throughput by 40%
+• Worked extensively with PostgreSQL for data storage and retrieval, managing databases with 10M+ records
+• Optimized database queries and improved API response times from 2.5s to 800ms average
+• Fine-tuned pre-trained embedding models (Sentence Transformers, BERT) for semantic search and document retrieval
+• Integrated vector databases (ChromaDB, Weaviate) for similarity matching and content recommendation
+• Led a team of 4 junior developers and mentored them in best practices and code review
+
+Backend Developer | DataVision Inc. | 2018 - 2020
+• Built scalable web applications using Python, Django, and PostgreSQL
+• Implemented caching strategies using Redis, reducing database load by 60%
+• Developed data processing pipelines for real-time analytics using Apache Kafka
+• Created automated testing suites achieving 90% code coverage
+• Collaborated with ML team to deploy NLP models for text classification and sentiment analysis
+
+Junior Software Engineer | StartupX | 2017 - 2018
+• Developed REST APIs using Flask and integrated with third-party services
+• Managed MySQL databases and implemented database migration strategies
+• Built frontend components using JavaScript and integrated with backend services
+• Participated in agile development cycles and sprint planning
+
+EDUCATION
+Master of Science in Computer Science | Stanford University | 2015 - 2017
+• Specialization: Machine Learning and Natural Language Processing
+• Thesis: "Improving Document Similarity Matching using Transformer-based Embeddings"
+• Relevant Coursework: Advanced Algorithms, Database Systems, Deep Learning
+
+Bachelor of Science in Software Engineering | UC Berkeley | 2011 - 2015
+• Magna Cum Laude, GPA: 3.8/4.0
+• Relevant Coursework: Data Structures, Software Architecture, Database Design
+
+PROJECTS
+• AI-Powered Document Matcher (2023): Built a semantic document matching system using Sentence Transformers and ChromaDB, achieving 85% accuracy in document similarity detection
+• Real-time Analytics Dashboard (2022): Developed a high-performance backend system processing 1M+ events per day using Django, PostgreSQL, and Redis
+• Recommendation Engine (2021): Implemented a content recommendation system using collaborative filtering and embedding-based similarity matching
+
+CERTIFICATIONS
+• AWS Certified Solutions Architect - Associate (2022)
+• Google Cloud Professional Machine Learning Engineer (2021)
+• MongoDB Certified Developer (2020)
