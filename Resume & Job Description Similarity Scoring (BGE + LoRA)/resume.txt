@@ -1,0 +1,32 @@
+Name: Baraa Abu Sallout
+Email: baraa.sallout@example.com
+Phone: +20123456789
+Location: Cairo, Egypt
+
+Professional Summary:
+AI Engineer with 5+ years of experience in developing and deploying machine learning 
+and deep learning solutions. Skilled in Natural Language Processing (NLP), 
+computer vision, and MLOps. Strong background in Python, TensorFlow, PyTorch, 
+and cloud platforms (AWS, Azure, GCP).
+
+Experience:
+- Senior AI Engineer at TechVision (2021–Present)
+  * Designed and deployed NLP models for sentiment analysis and chatbots using BERT.
+  * Built computer vision solutions for object detection using YOLOv5 and OpenCV.
+  * Automated ML pipelines with MLflow and Docker for production readiness.
+  * Collaborated with cross-functional teams to integrate AI models into web platforms.
+
+- Machine Learning Engineer at DataLab (2018–2021)
+  * Developed recommendation systems using collaborative filtering and XGBoost.
+  * Conducted data preprocessing and feature engineering for large-scale datasets.
+  * Optimized training and inference for deployment on low-resource devices.
+
+Education:
+M.Sc. in Artificial Intelligence (Ongoing), University of XYZ
+B.Sc. in Computer Science, Cairo University, 2017
+
+Skills:
+- Programming: Python, SQL, JavaScript
+- Frameworks: TensorFlow, PyTorch, Scikit-learn, Hugging Face
+- Tools: Docker, MLflow, Git, Kubernetes
+- Cloud: AWS, Azure, Google Cloud
