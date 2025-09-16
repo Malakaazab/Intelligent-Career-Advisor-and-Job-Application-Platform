@@ -1,0 +1,67 @@
+Senior Flutter Developer – Cross-Platform Mobile Applications
+
+BrightApps Labs | Remote or Austin, TX | Full-time
+
+COMPANY OVERVIEW
+
+BrightApps Labs is a fast-growing product studio specializing in high-performance, cross-platform mobile applications. We partner with startups and Fortune 500 brands to deliver beautiful, scalable apps using Flutter, Firebase, and modern backend technologies.
+
+JOB DESCRIPTION
+
+We are seeking a Senior Flutter Developer with deep experience in building cross-platform apps from concept to deployment. The ideal candidate has a track record of shipping polished, high-performance mobile apps and mentoring junior developers in Flutter best practices.
+
+KEY RESPONSIBILITIES
+
+• Architect, build, and maintain Flutter apps for iOS and Android from a single codebase
+• Integrate RESTful and GraphQL APIs, authentication, and cloud services (Firebase, AWS Amplify, Supabase)
+• Implement clean UI/UX designs with responsive layouts, animations, and custom widgets
+• Optimize app performance, memory usage, and startup times across devices
+• Configure CI/CD pipelines for automated testing, builds, and store deployments
+• Collaborate with backend teams on data modeling, caching strategies, and offline-first capabilities
+• Lead code reviews, ensure adherence to best practices, and mentor junior developers
+• Monitor and troubleshoot issues in production using crash analytics and logging tools
+• Contribute to architectural decisions and share Flutter expertise across the company
+
+REQUIRED QUALIFICATIONS
+
+• 4+ years of professional mobile development experience, including 2+ years with Flutter/Dart
+• Strong knowledge of Flutter widgets, state management (Provider, Riverpod, Bloc), and navigation
+• Experience integrating APIs, OAuth2 authentication, and push notifications
+• Familiarity with Firebase (Auth, Firestore, Cloud Functions) or similar backend services
+• Solid understanding of mobile performance optimization and debugging
+• Proficiency in Git workflows and collaborative development
+• Excellent communication and problem-solving skills
+
+PREFERRED QUALIFICATIONS
+
+• Experience publishing apps to the Apple App Store and Google Play Store
+• Knowledge of native Android (Kotlin) or iOS (Swift) for custom platform-specific integrations
+• Familiarity with testing frameworks (Flutter Test, Mockito) and automated UI testing
+• Exposure to micro-frontend or modular app architectures
+• Understanding of DevOps practices and CI/CD tools (GitHub Actions, Bitrise, Codemagic)
+• UI/UX sensibility and experience working with designers
+• Prior startup or agency experience delivering multiple client projects in parallel
+
+WHAT WE OFFER
+
+• Competitive salary range: $120,000 – $160,000 based on experience
+• Health, dental, and vision coverage
+• Flexible work arrangements (remote or hybrid)
+• 401(k) with company match
+• Annual budget for conferences, certifications, and training
+• MacBook Pro and premium tool subscriptions
+• A collaborative culture focused on innovation and learning
+
+TECHNICAL STACK
+
+• Frontend: Flutter/Dart, Material Design, Cupertino widgets
+• Backend/Cloud: Firebase, Supabase, AWS Amplify
+• State Management: Riverpod, Provider, Bloc
+• CI/CD: GitHub Actions, Codemagic, Bitrise
+• Analytics/Monitoring: Sentry, Firebase Crashlytics
+
+TO APPLY
+
+Submit your resume and portfolio (GitHub, apps on stores, or case studies) highlighting your Flutter experience and cross-platform app launches.
+
+BrightApps Labs is an equal opportunity employer committed to building an inclusive workplace. We welcome applications from all qualified individuals regardless of race, gender, age, religion, sexual orientation, or disability status.

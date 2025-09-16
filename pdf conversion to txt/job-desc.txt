@@ -1,0 +1,65 @@
+Senior Backend Engineer - AI/ML Focus
+InnovateTech Solutions | San Francisco, CA | Full-time
+
+COMPANY OVERVIEW
+InnovateTech Solutions is a leading technology company specializing in AI-powered enterprise software solutions. We serve Fortune 500 companies with cutting-edge applications that leverage machine learning and natural language processing to solve complex business problems.
+
+JOB DESCRIPTION
+We are seeking a Senior Backend Engineer with strong expertise in Python, Django, and machine learning to join our growing engineering team. The ideal candidate will have experience building scalable backend systems and implementing AI/ML solutions for production environments.
+
+KEY RESPONSIBILITIES
+• Design and develop robust backend services using Python and Django framework
+• Build and maintain RESTful APIs for data processing, retrieval, and manipulation
+• Work with large-scale PostgreSQL databases, optimizing queries and ensuring high performance
+• Implement and maintain vector databases (ChromaDB, Weaviate, or similar) for similarity search applications
+• Fine-tune pre-trained embedding models including Sentence Transformers, BERT, and other transformer architectures
+• Develop semantic search capabilities and document matching systems for enterprise clients
+• Collaborate with ML engineers to deploy and scale machine learning models in production
+• Optimize API response times and system performance for high-traffic applications
+• Participate in code reviews, architectural decisions, and technical documentation
+• Mentor junior developers and contribute to team knowledge sharing
+
+REQUIRED QUALIFICATIONS
+• 5+ years of experience in backend development with Python and Django
+• Strong experience with PostgreSQL database design, optimization, and query performance
+• Hands-on experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+• Experience fine-tuning pre-trained NLP models, particularly transformer models like BERT, Sentence Transformers
+• Knowledge of vector databases and similarity search technologies (ChromaDB, Weaviate, Pinecone, or similar)
+• Proficiency in building and consuming RESTful APIs
+• Experience with cloud platforms (AWS, GCP, or Azure)
+• Strong understanding of software engineering best practices and design patterns
+• Excellent problem-solving skills and attention to detail
+
+PREFERRED QUALIFICATIONS
+• Master's degree in Computer Science, Machine Learning, or related field
+• Experience with semantic search, document retrieval, and recommendation systems
+• Knowledge of distributed systems and microservices architecture
+• Experience with containerization (Docker) and orchestration (Kubernetes)
+• Familiarity with CI/CD pipelines and DevOps practices
+• Experience with data processing frameworks (Apache Spark, Kafka)
+• Knowledge of other embedding models and similarity matching techniques
+• Experience with A/B testing and model evaluation metrics
+• Previous experience in a fast-paced startup or tech company environment
+
+WHAT WE OFFER
+• Competitive salary range: $150,000 - $200,000 based on experience
+• Comprehensive health, dental, and vision insurance
+• 401(k) with company matching
+• Flexible work arrangements (hybrid/remote options)
+• Professional development budget for conferences and training
+• Stock options and equity participation
+• Collaborative and innovative work environment
+• Opportunity to work with cutting-edge AI/ML technologies
+
+TECHNICAL STACK
+• Backend: Python, Django, FastAPI
+• Databases: PostgreSQL, MongoDB, ChromaDB, Redis
+• ML/AI: TensorFlow, PyTorch, Hugging Face Transformers, Sentence Transformers
+• Cloud: AWS (EC2, S3, RDS, Lambda)
+• DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+• Monitoring: Prometheus, Grafana, ELK Stack
+
+TO APPLY
+Please submit your resume along with a cover letter highlighting your experience with machine learning and backend development. Include links to relevant projects or GitHub repositories that demonstrate your expertise in semantic search, embedding models, or similar AI/ML applications.
+
+InnovateTech Solutions is an equal opportunity employer committed to diversity and inclusion. We welcome applications from all qualified candidates regardless of race, gender, age, religion, sexual orientation, or disability status.
